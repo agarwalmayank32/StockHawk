@@ -1,0 +1,25 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+  <string name="app_name">Stock Hawk</string>
+  <string name="widget_title">Today\'s Market</string>
+  <string name="action_example">Example action</string>
+
+  <string name="action_settings">إعدادات</string>
+  <string name="action_change_units">وحدات التغيير</string>
+  <string name="symbol_search">بحث رمز</string>
+  <string name="content_test">البحث عن رمز السهم</string>
+  <string name="input_hint">FB</string>
+  <string name="input_prefill"></string>
+
+  <string name="network_toast">اه أوه! هذا التطبيق يتطلب اتصال بالإنترنت</string>
+  <string name="empty_display">لا يوجد مخزون معلومات متوفرة</string>
+  <string name="no_network">لا يوجد مخزون معلومات متوفرة نظرا للا اتصال الشبكة</string>
+
+  <string name="company_name">GOOG</string>
+  <string name="company_share_price"><xliff:g id="share_prices">1000.00</xliff:g></string>
+  <string name="company_share_increase"><xliff:g id="share_increase">100%</xliff:g></string>
+
+  <string name="string_tag">بطاقة</string>
+  <string name="error_no_symbol">خطأ! لم يتم العثور على رمز</string>
+  <string name="string_symbol_found">نجاح! وأضاف رمز جديد</string>
+
+</resources>

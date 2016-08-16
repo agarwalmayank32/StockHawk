@@ -1,0 +1,37 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+  <string name="app_name">Stock Hawk</string>
+  <string name="widget_title">Today\'s Market</string>
+  <string name="action_example">Example action</string>
+  <string name="title_activity_stock_detail">StockDetailActivity</string>
+
+  <string name="action_settings">Settings</string>
+  <string name="action_change_units">Change Units</string>
+  <string name="symbol_search">Symbol Search</string>
+  <string name="content_test">Search for a Stock Symbol</string>
+  <string name="input_hint">FB</string>
+  <string name="input_prefill"></string>
+
+  <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+  <string name="empty_display">No Stock Information Available</string>
+  <string name="no_network">No Stock Information Available Due To No Network Connectivity</string>
+
+  <string name="company_name">GOOG</string>
+  <string name="company_share_price"><xliff:g id="share_prices">1000.00</xliff:g></string>
+  <string name="company_share_increase"><xliff:g id="share_increase">100%</xliff:g></string>
+
+  <string name="string_tag">tag</string>
+  <string name="error_no_symbol">Error! symbol Not found</string>
+  <string name="string_symbol_found">Success! added new Symbol</string>
+
+  <string name="string_symbol"  translatable="false">symbol</string>
+  <string name="string_set_background_resource" translatable="false">setBackgroundResource</string>
+  <string name="stock_present">This stock is already saved!</string>
+  <string name="symbol">symbol</string>
+  <string name="tag">tag</string>
+  <string name="add">add</string>
+  <string name="periodic">periodic</string>
+  <string name="init">init</string>
+  <string name="query">" = ?"</string>
+  <string name="one">1</string>
+
+</resources>

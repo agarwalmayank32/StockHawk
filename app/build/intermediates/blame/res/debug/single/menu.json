@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mayank/Desktop/StockHawk-master/app/build/intermediates/res/merged/debug/menu/my_stocks.xml",
+        "source": "/home/mayank/Desktop/StockHawk-master/app/src/main/res/menu/my_stocks.xml"
+    },
+    {
+        "merged": "/home/mayank/Desktop/StockHawk-master/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/home/mayank/Desktop/StockHawk-master/app/src/main/res/menu/global.xml"
+    }
+]
